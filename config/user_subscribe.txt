@@ -11,5 +11,6 @@ http://kxrj.site:567/gggg.nzk
 #https://raw.gitmirror.com/159ecn/xh2/main/lib/live.txt
 https://gitlab.com/tvtg/v6tv/-/raw/main/V6TV.txt
 https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt
+http://www.meowtv.top/mtvzb.txt
 #自用保留源
 https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
