@@ -1,5 +1,10 @@
 #自用保留源
 https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
+
+#基于官网
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/webview.m3u
+
 https://raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt
 http://47.120.41.246:8899/zb.txt
 #https://iptv.b2og.com/txt/fmml_ipv6.txt
