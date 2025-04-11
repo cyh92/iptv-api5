@@ -1,9 +1,10 @@
 #自用保留源
 #https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
 
-#基于官网
-https://raw.githubusercontent.com/cyh92/iptv-api1/refs/heads/master/output/cctv.txt
-https://raw.githubusercontent.com/cyh92/iptv-api2/refs/heads/master/output/weishi.txt
+#央视
+https://raw.githubusercontent.com/cyh92/iptv-api1/refs/heads/master/output/result.txt
+#卫视
+https://raw.githubusercontent.com/cyh92/iptv-api2/refs/heads/master/output/result.txt
 
 #https://raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt
 #http://47.120.41.246:8899/zb.txt
