@@ -1,6 +1,6 @@
 #自用保留源
 #https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
-
+https://gitee.com/cyh92/StaticPage/raw/master/tv/latest.txt
 #央视
 https://raw.githubusercontent.com/cyh92/iptv-api1/refs/heads/master/output/result.txt
 #卫视
