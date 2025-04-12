@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/cyh92/iptv-api2/refs/heads/master/output/resul
 
 
 
-https://gitee.com/cyh92/StaticPage/raw/master/tv/latest.txt
+#https://gitee.com/cyh92/StaticPage/raw/master/tv/latest.txt
 
 
 #https://raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt
