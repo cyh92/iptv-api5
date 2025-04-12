@@ -1,6 +1,6 @@
 #自用保留源
 https://gitee.com/cyh92/StaticPage/raw/master/tv/list.txt
-https://gitee.com/cyh92/StaticPage/raw/master/tv/latest.txt
+#https://gitee.com/cyh92/StaticPage/raw/master/tv/latest.txt
 
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
