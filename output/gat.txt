@@ -1,12 +1,23 @@
 🌊港·澳·台,#genre#
 中天新聞台,https://tv.iill.top/litv/4gtv-4gtv009
 中天新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞台,http://cdn.iptv8k.top/dl/jspd.php?id=1
+TVBS-新聞台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
 中天亞洲台,https://tv.iill.top/litv/4gtv-4gtv109
+中天亞洲台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 寰宇新聞台,https://tv.iill.top/litv/litv-longturn14
 東森新聞,https://tv.iill.top/litv/4gtv-4gtv152
+三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 三立新闻,https://tv.iill.top/4gtv/229
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
+东森超视,rtmp://116.93.98.236/sat/tv331.flv
+东森超视,rtmp://60.248.77.83/sat/tv331
+东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
+东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+东森超视,rtmp://220.130.201.73/sat/tv331
 东森电影,http://go1.bkpcp.top/tl/null-11
+中視,rtmp://f13h.mine.nu/sat/tv091
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
@@ -27,10 +38,15 @@
 鳳凰資訊,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 鳳凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 鳳凰資訊,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+鳳凰資訊,http://218.202.220.2:5000/nn_live.ts?id=FHZX
+鳳凰資訊,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰资讯
 鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 鳳凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 鳳凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 鳳凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+鳳凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
+鳳凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
+鳳凰香港,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰香港
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -49,6 +65,11 @@
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://cdn5.1678520.xyz/live/?id=fct
 翡翠台,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
+翡翠台,rtmp://sy.ecoheze.com/live/gdfc
+翡翠台,rtmp://redmine.ziyanuav.com/live/gdfc
+翡翠台,rtmp://patrol.psn.asia/live/gdfc
+翡翠台,rtmp://szgasszyaxtgl.szius.com/live/gdfc
+翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
@@ -69,12 +90,19 @@
 凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
+凤凰资讯,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰资讯
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
+凤凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
+凤凰香港,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰香港
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+凤凰卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 无线新闻台(北美),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻台(北美),https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻台(北美),http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -84,14 +112,29 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 千禧經典台(HK),http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧經典台(HK),http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+千禧經典台(HK),http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
 美亞電影台(HK),http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亞電影台(HK),http://go1.bkpcp.top/tl/null-5
+華視,rtmp://f13h.mine.nu/sat/tv111
 靖天電影台,https://tv.iill.top/litv/4gtv-4gtv061
 黃金翡翠台,http://go1.bkpcp.top/tl/null-2
 龍華電影台,https://tv.iill.top/litv/litv-longturn03
 亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亞洲新聞台,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
+纬来体育,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一纬来体育
+纬来体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby
+纬来体育,rtmp://116.93.98.236/sat/tv721.flv
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+纬来体育,rtmp://60.248.77.83/sat/tv721
+纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
+纬来体育,rtmp://220.130.201.73/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
+纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
+纬来育乐,rtmp://60.248.77.83/sat/tv701
+纬来育乐,rtmp://116.93.98.236/sat/tv701.flv
+纬来育乐,rtmp://220.130.201.73/sat/tv701
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 
@@ -100,6 +143,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 港闽频道,#genre#
 凤凰卫视频道,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视频道,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰卫视频道,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
+凤凰卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
 凤凰资讯频道,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯频道,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯频道,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
@@ -110,6 +155,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 凤凰资讯频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 凤凰资讯频道,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯频道,http://udnhls.skilldns.com:80/fhzx-cn.m3u8
+凤凰资讯频道,http://218.202.220.2:5000/nn_live.ts?id=FHZX
+凤凰资讯频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰资讯
 无线新闻频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻频道,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻频道,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -127,20 +174,33 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 黄金华剧频道,http://go1.bkpcp.top/tl/null-9
 千禧经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典频道,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+千禧经典频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
 天映经典频道,http://go1.bkpcp.top/tl/null-1
 东森新闻频道,https://tv.iill.top/litv/4gtv-4gtv152
+tvbs新闻频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
 寰宇新闻频道,https://tv.iill.top/litv/litv-longturn14
 三立新闻频道,https://tv.iill.top/4gtv/229
 三立新闻频道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立新闻频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
 中视新闻频道,https://tv.iill.top/litv/4gtv-4gtv074
+民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
+华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
+台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
+三立台湾频道,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 东森电影频道,http://go1.bkpcp.top/tl/null-11
 龙华戏剧频道,https://tv.iill.top/litv/litv-longturn18
 龙华电影频道,https://tv.iill.top/litv/litv-longturn03
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视频道,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
+香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视频道,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+星空卫视频道,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 中天新闻频道,https://tv.iill.top/litv/4gtv-4gtv009
 中天新闻频道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻频道,http://cdn.iptv8k.top/dl/jspd.php?id=1
 无线华丽频粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 无线直播频道,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
 无线功夫频道,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
@@ -150,25 +210,31 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 美亚电影频粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+重温经典频道,http://800686.xyz:35455/bptv/10000100000000050000000003887494.m3u8
 Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 动作电影频道,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 动作电影频道,http://data.3g.yy.com/live/hls/1382735573/1382735573
 广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+RTHK-33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK-34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 澳门莲花频道,http://php.jdshipin.com:8880/amlh.php
 澳门莲花频道,https://tv.iill.top/mo/lhws
 澳视澳门频道,http://cdn.132.us.kg/live/asam/stream.m3u8
 澳门mac频道,http://cdn.132.us.kg/live/as/stream.m3u8
+中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
+东森超视频道,rtmp://116.93.98.236/sat/tv331.flv
+东森超视频道,rtmp://60.248.77.83/sat/tv331
+东森超视频道,rtmp://9hv9.mine.nu/sat/tv331.flv
+东森超视频道,rtmp://f13h.mine.nu:1935:1935/sat/tv331
+东森超视频道,rtmp://220.130.201.73/sat/tv331
 民视第一频道,https://tv.iill.top/litv/4gtv-4gtv003
 民视台湾频道,https://tv.iill.top/litv/4gtv-4gtv001
 
 🈳无结果频道,#genre#
 中天娱乐,url
-TVBS-新聞台,url
-三立台湾,url
 东森综合,url
-东森超视,url
-中視,url
 明珠台,url
 無線衛星新聞台,url
 TVB,url
@@ -178,14 +244,11 @@ tvN,url
 明珠剧集台(北美),url
 翡翠剧集台(北美),url
 翡翠综合台(北美),url
-華視,url
 龍華日韓台,url
 龍華經典台,url
 NHK World-Japan,url
 NHK東京総合,url
 東方衛視國際頻道,url
-纬来体育,url
-纬来育乐,url
 Now剧集,url
 Now华剧,url
 靖天资讯,url
@@ -261,12 +324,7 @@ tvbs欢乐4Gtv,url
 天映频道频道,url
 美亚电影频港,url
 美亚电影频闽,url
-tvbs新闻频道,url
-民视闽南频道,url
-华视闽南频道,url
-台视闽南频道,url
 tvbs闽南频道,url
-三立台湾频道,url
 八大综合频道,url
 八大笫一频道,url
 八大戏剧频道,url
@@ -280,7 +338,6 @@ tvbs闽南频道,url
 亚洲旅游频道,url
 探索频道频道,url
 野生地理频道,url
-星空卫视频道,url
 无线星河频国,url
 Now爆谷频道,url
 Now星影频道,url
@@ -290,15 +347,10 @@ Now星影频道,url
 影迷电影频道,url
 RTHK-31频陆,url
 RTHK-32频陆,url
-RTHK-33频道,url
-RTHK-34频道,url
-RTHK-35频道,url
 香港面包频道,url
 香港_C+_频道,url
 澳视葡语频道,url
 澳门资讯频道,url
-中视闽南频道,url
-东森超视频道,url
 东森财经频特,url
 环球电视频道,url
 Astv亚洲卫视,url
