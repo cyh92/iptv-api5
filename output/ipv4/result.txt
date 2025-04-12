@@ -21,6 +21,21 @@
 东森超视频道,rtmp://f13h.mine.nu/sat/tv331
 
 ☘️河南频道,#genre#
+周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
+范县新闻综合,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
+济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+开封公共,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
+开封新闻综合,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
+兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+渑池综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
+义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+项城电视,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
+新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 
 ☘️广东频道,#genre#
 番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
@@ -525,24 +540,17 @@ tvbs闽南频特,url
 河南新农村,url
 河南新闻,url
 河南电视剧,url
-周口扶沟,url
-郸城新闻综合,url
 登封综合,url
-范县新闻综合,url
 扶沟综合,url
 固始综合,url
 光山综合,url
 鹤岗新闻综合,url
 淮滨综合,url
 潢川综合,url
-济源电视一套,url
 焦作公共,url
 焦作教育,url
 焦作综合,url
 睛彩焦作,url
-开封公共,url
-开封新闻综合,url
-兰考新闻,url
 临颍综合,url
 栾川新闻,url
 洛宁综合,url
@@ -566,14 +574,6 @@ tvbs闽南频特,url
 叶县一套,url
 义马新闻综合,url
 禹州公共,url
-禹州综合,url
-叶县电视,url
-渑池综合,url
-义马电视,url
-淅川电视,url
-项城电视,url
-新乡,url
-新蔡,url
 卫辉综合,url
 叶县,url
 宝丰综合,url
@@ -1916,4 +1916,4 @@ CN卡通,url
 音乐调频广播,url
 
 🕘️更新时间,#genre#
-2025-04-12 08:48:51,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
+2025-04-12 10:19:50,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
