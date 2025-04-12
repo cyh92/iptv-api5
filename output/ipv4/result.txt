@@ -1,33 +1,26 @@
 📺央视频道,#genre#
+港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
 
 💰付费频道,#genre#
 
 📡卫视频道,#genre#
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744383609&sign=361be5c65c19b1ac8cb26a21a58f41f8
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744383609&sign=361be5c65c19b1ac8cb26a21a58f41f8
 
 🌊港·澳·台,#genre#
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 
 闽南4Gtv,#genre#
 
 港闽频道,#genre#
+东森超视频道,rtmp://f13h.mine.nu/sat/tv331
 
 ☘️河南频道,#genre#
-周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
-郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
-范县新闻综合,http://live.dxhmt.cn:9080/13603832636/13abd3089d9c47058fe34c49a6182981.m3u8
-济源电视一套,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
-开封公共,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
-开封新闻综合,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
-兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
-叶县电视,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
-渑池综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
-义马电视,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
-淅川电视,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
-项城电视,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
-新乡,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
-新蔡,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
 
 ☘️广东频道,#genre#
 番禺新闻,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
@@ -35,6 +28,15 @@
 梅州生活,http://pili-live-hls.xianchangliving.gdmztv.com:80/meizhou-xianchangliving/mztv2.m3u8
 
 ☘️浙江频道,#genre#
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
 ☘️北京频道,#genre#
 
@@ -51,6 +53,9 @@
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
+南宁公共,https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+宾阳综合,rtmp://live.gxrb.com.cn/gx/binyang
+巴马综合,rtmp://live.gxrb.com.cn/gx/bama
 
 ☘️天津频道,#genre#
 
@@ -75,6 +80,12 @@
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
+安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8?zanhd
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
+歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
+肥西综合,http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+岳西综合,http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8
 
 ☘️宁夏频道,#genre#
 
@@ -89,15 +100,18 @@
 ☘️黑龙江频道,#genre#
 
 🎬电影频道,#genre#
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🏀体育频道,#genre#
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 
 🪁动画频道,#genre#
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 🎵音乐频道,#genre#
 
 🈳无结果频道,#genre#
-港台电视33,url
 CCTV-1香港版,url
 CCTV-1_综合,url
 CCTV-2_财经,url
@@ -290,7 +304,6 @@ CCTV女性时尚,url
 星空卫视,url
 延边卫视,url
 云南卫视,url
-浙江卫视,url
 安多卫视HD,url
 安徽卫视HD,url
 兵团卫视HD,url
@@ -306,9 +319,7 @@ TVBS-新聞台,url
 三立台湾,url
 三立新闻,url
 东森综合,url
-东森超视,url
 东森电影,url
-中視,url
 鳳凰中文,url
 鳳凰資訊,url
 鳳凰香港,url
@@ -333,7 +344,6 @@ tvN,url
 美亞電影台(HK),url
 翡翠剧集台(北美),url
 翡翠综合台(北美),url
-華視,url
 靖天電影台,url
 黃金翡翠台,url
 龍華日韓台,url
@@ -344,8 +354,6 @@ NHK東京総合,url
 亞洲新聞台,url
 東方衛視國際頻道,url
 TVBS亚洲,url
-纬来体育,url
-纬来育乐,url
 J2,url
 Viutv,url
 Now剧集,url
@@ -497,7 +505,6 @@ RTHK-35频道,url
 澳门资讯频道,url
 澳门mac频道,url
 中视闽南频道,url
-东森超视频道,url
 东森财经频特,url
 环球电视频道,url
 Astv亚洲卫视,url
@@ -518,17 +525,24 @@ tvbs闽南频特,url
 河南新农村,url
 河南新闻,url
 河南电视剧,url
+周口扶沟,url
+郸城新闻综合,url
 登封综合,url
+范县新闻综合,url
 扶沟综合,url
 固始综合,url
 光山综合,url
 鹤岗新闻综合,url
 淮滨综合,url
 潢川综合,url
+济源电视一套,url
 焦作公共,url
 焦作教育,url
 焦作综合,url
 睛彩焦作,url
+开封公共,url
+开封新闻综合,url
+兰考新闻,url
 临颍综合,url
 栾川新闻,url
 洛宁综合,url
@@ -552,6 +566,14 @@ tvbs闽南频特,url
 叶县一套,url
 义马新闻综合,url
 禹州公共,url
+禹州综合,url
+叶县电视,url
+渑池综合,url
+义马电视,url
+淅川电视,url
+项城电视,url
+新乡,url
+新蔡,url
 卫辉综合,url
 叶县,url
 宝丰综合,url
@@ -692,15 +714,10 @@ IPTV热播剧场,url
 汕头经济,url
 汕头文旅,url
 茂名公共,url
-浙江钱江,url
 浙江钱江都市,url
-浙江钱江台,url
 浙江生活,url
 浙江经济生活,url
 浙江教育,url
-浙江民生,url
-浙江新闻,url
-浙江少儿,url
 杭州综合,url
 杭州明珠,url
 杭州西湖明珠,url
@@ -723,10 +740,6 @@ NBTV-1,url
 NBTV-2,url
 NBTV-3,url
 NBTV-4,url
-浙江教科,url
-浙江经济,url
-之江纪录,url
-浙江国际,url
 嘉兴新闻综合,url
 嘉兴公共,url
 嘉兴文化影视,url
@@ -1094,16 +1107,13 @@ BTV纪实,url
 凭祥综合,url
 北海新闻综合,url
 北海经济科教,url
-南宁公共,url
 南宁影娱乐,url
 南宁新闻综合,url
 南宁都市生活,url
 博白综合,url
 天等综合,url
-宾阳综合,url
 岑溪综合,url
 崇左综合,url
-巴马综合,url
 昭平综合,url
 来宾综合,url
 桂平综合,url
@@ -1622,16 +1632,11 @@ BTV纪实,url
 黄河电视台,url
 黎城综合,url
 安徽国际,url
-安徽影视,url
-安徽经济生活,url
-安徽综艺体育,url
 安徽导视,url
 合肥公共,url
 合肥新闻,url
 固镇新闻,url
-歙县综合,url
 肥西新闻,url
-肥西综合,url
 黟县综合,url
 黄山新闻综合,url
 黄山公共生活,url
@@ -1668,7 +1673,6 @@ BTV纪实,url
 当涂新闻综合,url
 广德生活,url
 广德新闻综合,url
-岳西综合,url
 屯溪融媒,url
 宿松新闻综合,url
 宿州科教,url
@@ -1868,11 +1872,9 @@ IPTV经典电影,url
 东森电影,url
 龙祥电影,url
 东森洋片,url
-东森超视,url
 CCTV-5,url
 CCTV-5+,url
 广东体育,url
-纬来体育,url
 五星体育,url
 体育赛事,url
 劲爆体育,url
@@ -1887,7 +1889,6 @@ CCTV-5+,url
 成都体育,url
 天津体育,url
 江苏体育,url
-安徽综艺体育,url
 吉林篮球,url
 睛彩篮球,url
 睛彩羽毛球,url
@@ -1906,7 +1907,6 @@ CN卡通,url
 睛彩少儿,url
 炫动卡通,url
 24H国漫热播,url
-浙江少儿,url
 河北少儿科教,url
 音乐现场,url
 音乐之声,url
@@ -1916,4 +1916,4 @@ CN卡通,url
 音乐调频广播,url
 
 🕘️更新时间,#genre#
-2025-04-12 08:15:17,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744383609&sign=361be5c65c19b1ac8cb26a21a58f41f8
+2025-04-12 08:48:51,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8?
