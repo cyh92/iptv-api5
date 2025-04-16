@@ -1,4 +1,4 @@
-🌊港·澳·台,#genre#
+港·澳·台,#genre#
 中天新闻,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
@@ -156,9 +156,9 @@ tvbs欢乐4Gtv,http://205.185.123.236:50089/4gtv-4gtv068/index.m3u8
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
-香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 星空卫视频道,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 无线华丽频粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
@@ -283,4 +283,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-04-16 14:26:03,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
+2025-04-16 16:45:33,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv

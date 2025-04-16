@@ -1,4 +1,4 @@
-🌊港·澳·台,#genre#
+港·澳·台,#genre#
 中天新闻,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 东森电影,http://go1.bkpcp.top/tl/null-11
@@ -255,4 +255,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-04-16 14:26:03,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
+2025-04-16 16:45:33,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
