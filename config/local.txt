@@ -3,16 +3,3 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 
-中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
-中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews
-中天新闻,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
-中天新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
-中天新闻,p3p://108.181.32.169:41467/675ec8cf000def51a43a021f0e7931f9
-中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6963&tk=e503191f8e20
-中天新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4672&tk=e640d0a1bf70
-中天娱乐,https://pixman.mytvsuper.com.mp/Smart.php?id=ctient
-中天娱乐,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1972&tk=e640d0a1bf70
-中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
-中天综合,https://pixman.mytvsuper.com.mp/Smart.php?id=ctizhonghe
-中天综合,p3p://108.181.32.169:41467/642d0188000d7c49092747f97ffc7c72
-中天娱乐,p3p://108.181.32.169:41467/642525670005ee2bea739da573c134b4
