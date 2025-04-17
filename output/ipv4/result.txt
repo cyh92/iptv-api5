@@ -1,5 +1,7 @@
 港·澳·台,#genre#
+中天新聞台,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
+中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天综合,http://108.181.21.27:27347/livehttpplay?channel_id=20064
 东森超视,rtmp://116.93.98.236/sat/tv331.flv
 东森超视,rtmp://60.248.77.83/sat/tv331
@@ -8,8 +10,8 @@
 鳳凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
 鳳凰資訊,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 鳳凰資訊,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
-鳳凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
 鳳凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
+鳳凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
 翡翠台,rtmp://sy.ecoheze.com/live/gdfc
 翡翠台,rtmp://redmine.ziyanuav.com/live/gdfc
 翡翠台,rtmp://patrol.psn.asia/live/gdfc
@@ -17,10 +19,9 @@
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
-凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
 凤凰香港,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0
+凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
 凤凰卫视,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-龍華電影台,http://37.27.111.214:8080/live/19/hls.m3u8
 龍華電影台,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 纬来体育,http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8
 纬来体育,rtmp://116.93.98.236/sat/tv721.flv
@@ -38,25 +39,28 @@
 凤凰卫视频道,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰资讯频道,http://218.202.220.2:5000/nn_live.ts?id=FHZX
 凤凰资讯频道,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
+民视闽南频道,rtmp://f13h.mine.nu/sat/tv051
+华视闽南频道,rtmp://f13h.mine.nu/sat/tv111
+台视闽南频道,rtmp://f13h.mine.nu/sat/tv071
 龙华戏剧频道,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
-龙华电影频道,http://37.27.111.214:8080/live/19/hls.m3u8
 龙华电影频道,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 香港卫视频道,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=xianggangweishi&P2PChannelID=pd://cctv_p2p_hdxianggangweishi
 香港卫视频道,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视频道,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视频道,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 星空卫视频道,http://218.202.220.2:5000/nn_live.ts?id=STARTV#rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+中天新闻频道,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 RTHK-33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+中视闽南频道,rtmp://f13h.mine.nu/sat/tv091
 东森超视频道,rtmp://116.93.98.236/sat/tv331.flv
 东森超视频道,rtmp://60.248.77.83/sat/tv331
 东森超视频道,rtmp://9hv9.mine.nu/sat/tv331.flv
 东森超视频道,rtmp://f13h.mine.nu:1935:1935/sat/tv331
 
 🈳无结果频道,#genre#
-中天新聞台,url
 中天娱乐,url
 TVBS-新聞台,url
 中天亞洲台,url
@@ -186,9 +190,6 @@ tvbs新闻频道,url
 寰宇新闻频道,url
 三立新闻频道,url
 中视新闻频道,url
-民视闽南频道,url
-华视闽南频道,url
-台视闽南频道,url
 tvbs闽南频道,url
 三立台湾频道,url
 八大综合频道,url
@@ -206,7 +207,6 @@ tvbs闽南频道,url
 探索频道频道,url
 野生地理频道,url
 凤凰香港频备,url
-中天新闻频道,url
 无线华丽频粤,url
 无线直播频道,url
 无线功夫频道,url
@@ -234,7 +234,6 @@ RTHK-32频陆,url
 澳视葡语频道,url
 澳门资讯频道,url
 澳门mac频道,url
-中视闽南频道,url
 东森财经频特,url
 环球电视频道,url
 Astv亚洲卫视,url
@@ -250,4 +249,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-04-17 05:40:52,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
+2025-04-18 05:40:17,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
