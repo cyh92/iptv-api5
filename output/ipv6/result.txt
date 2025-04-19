@@ -126,7 +126,6 @@ tvbs欢乐4Gtv,http://kr2.13430067.xyz/proxy?url=http%3A//172.17.0.2%3A80/litv.p
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视频道,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视频道,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
-香港卫视频道,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 无线华丽频粤,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 无线直播频道,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
 无线功夫频道,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
@@ -255,4 +254,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-04-19 05:40:04,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
+2025-04-20 05:39:39,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
