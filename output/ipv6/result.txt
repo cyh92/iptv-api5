@@ -254,4 +254,4 @@ tvbs闽南频特,url
 民视台湾频道,url
 
 🕘️更新时间,#genre#
-2025-04-23 05:40:17,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
+2025-04-24 05:41:19,http://ali.hlspull.yximgs.com/live/_______CTI__HD.flv
