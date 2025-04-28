@@ -1,4 +1,4 @@
-Name: 韩国新闻, URL: http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 192 ms, Speed: 0.00 M/s, Resolution: 1280x720
+Name: 韩国新闻, URL: http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: 180 ms, Speed: 0.00 M/s, Resolution: 1280x720
 Name: 日本新闻, URL: https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 半岛新闻, URL: http://live-hls-web-aja.getaj.net/AJA/02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 半岛新闻, URL: http://live-hls-web-aje.getaj.net/AJE/01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
