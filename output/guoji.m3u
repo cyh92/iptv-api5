@@ -1,33 +1,57 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
 #EXTINF:-1 tvg-name="韩国新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国新闻.png" group-title="国际频道",韩国新闻
 http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-name="日本新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本新闻.png" group-title="🈳无结果频道",日本新闻
-url
-#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="🈳无结果频道",半岛新闻
-url
-#EXTINF:-1 tvg-name="法国时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法国时尚.png" group-title="🈳无结果频道",法国时尚
-url
-#EXTINF:-1 tvg-name="韩·EBS-2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS-2.png" group-title="🈳无结果频道",韩·EBS-2
-url
-#EXTINF:-1 tvg-name="韩·JobPlusTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·JobPlusTV.png" group-title="🈳无结果频道",韩·JobPlusTV
-url
-#EXTINF:-1 tvg-name="韩·EBS-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS-1.png" group-title="🈳无结果频道",韩·EBS-1
-url
-#EXTINF:-1 tvg-name="韩·EBS2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS2.png" group-title="🈳无结果频道",韩·EBS2
-url
-#EXTINF:-1 tvg-name="韩·EBSe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBSe.png" group-title="🈳无结果频道",韩·EBSe
-url
-#EXTINF:-1 tvg-name="韩·EBS1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS1.png" group-title="🈳无结果频道",韩·EBS1
-url
-#EXTINF:-1 tvg-name="韩·KBSWorld" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·KBSWorld.png" group-title="🈳无结果频道",韩·KBSWorld
-url
-#EXTINF:-1 tvg-name="韩·TBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·TBS.png" group-title="🈳无结果频道",韩·TBS
-url
-#EXTINF:-1 tvg-name="韩·GSMyShop" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·GSMyShop.png" group-title="🈳无结果频道",韩·GSMyShop
-url
-#EXTINF:-1 tvg-name="韩·KoreaTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·KoreaTV.png" group-title="🈳无结果频道",韩·KoreaTV
-url
-#EXTINF:-1 tvg-name="韩·SBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·SBS.png" group-title="🈳无结果频道",韩·SBS
-url
-#EXTINF:-1 tvg-name="韩国新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国新闻.png" group-title="🕘️更新时间",2025-04-29 05:38:57
+#EXTINF:-1 tvg-name="日本新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本新闻.png" group-title="国际频道",日本新闻
+https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
+#EXTINF:-1 tvg-name="日本新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本新闻.png" group-title="国际频道",日本新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-name="日本新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本新闻.png" group-title="国际频道",日本新闻
+https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
+#EXTINF:-1 tvg-name="日本新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/日本新闻.png" group-title="国际频道",日本新闻
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="国际频道",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="国际频道",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="国际频道",半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/半岛新闻.png" group-title="国际频道",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="法国时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/法国时尚.png" group-title="国际频道",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="韩·EBS-2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS-2.png" group-title="国际频道",韩·EBS-2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩·EBS-2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS-2.png" group-title="国际频道",韩·EBS-2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩·EBS-2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS-2.png" group-title="国际频道",韩·EBS-2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·JobPlusTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·JobPlusTV.png" group-title="国际频道",韩·JobPlusTV
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·EBS-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS-1.png" group-title="国际频道",韩·EBS-1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 tvg-name="韩·EBS-1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS-1.png" group-title="国际频道",韩·EBS-1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·EBS2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS2.png" group-title="国际频道",韩·EBS2
+http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩·EBS2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS2.png" group-title="国际频道",韩·EBS2
+http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+#EXTINF:-1 tvg-name="韩·EBS2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS2.png" group-title="国际频道",韩·EBS2
+http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·EBSe" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBSe.png" group-title="国际频道",韩·EBSe
+http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·EBS1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS1.png" group-title="国际频道",韩·EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+#EXTINF:-1 tvg-name="韩·EBS1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·EBS1.png" group-title="国际频道",韩·EBS1
+http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·KBSWorld" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·KBSWorld.png" group-title="国际频道",韩·KBSWorld
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-name="韩·TBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·TBS.png" group-title="国际频道",韩·TBS
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·GSMyShop" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·GSMyShop.png" group-title="国际频道",韩·GSMyShop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·KoreaTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·KoreaTV.png" group-title="国际频道",韩·KoreaTV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="韩·SBS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩·SBS.png" group-title="国际频道",韩·SBS
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-name="韩国新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国新闻.png" group-title="🕘️更新时间",2025-04-29 17:09:36
 http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
