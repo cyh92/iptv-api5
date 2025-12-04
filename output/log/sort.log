@@ -1,7 +1,0 @@
-Name: 日本新闻, URL: https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 半岛新闻, URL: https://live-hls-web-aje.getaj.net/AJE/02.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 韩·JobPlusTV, URL: http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 韩·KBSWorld, URL: https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 韩·TBS, URL: https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 韩·GSMyShop, URL: https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 韩·SBS, URL: http://1.245.74.5:1935/live/tv/.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
