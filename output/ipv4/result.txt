@@ -27,4 +27,4 @@
 韩·SBS,url
 
 🕘️更新时间,#genre#
-2025-12-29 05:39:30,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+2025-12-30 05:40:04,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
